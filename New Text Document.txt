@@ -1,0 +1,11 @@
+npm install express ejs
+express = routing web
+ejs = engine js
+
+npm install nodemon
+npm install -g nodemon
+
+storyset
+unplash
+
+minimal 1 dinamis javascript
